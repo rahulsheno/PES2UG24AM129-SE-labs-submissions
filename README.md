@@ -159,7 +159,6 @@ PES2UG24AM129-SE-labs-submissions/
 | Lab | Original GitHub Repository |
 |:---:|:---|
 | Lab 1 | [Remote-Team-Time-Tracking-Project-Approver-SE-Lab-1](https://github.com/rahulsheno/Remote-Team-Time-Tracking-Project-Approver-SE-Lab-1) |
-| Lab 2 | [LAB_02_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129](https://github.com/rahulsheno/LAB_02_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129) |
 | Lab 3 | [LAB_03_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129](https://github.com/rahulsheno/LAB_03_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129) |
 | Lab 4 | [LAB_04_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129](https://github.com/rahulsheno/LAB_04_RAHUL_VIVEK_SHENOY_PES2UG2UG24AM129) |
 | Lab 5 | [L5_46_RAHUL_VIVEK_SHENOY_PES2UG24AM129](https://github.com/rahulsheno/L5_46_RAHUL_VIVEK_SHENOY_PES2UG24AM129) |
