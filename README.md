@@ -19,7 +19,6 @@ This repository consolidates all seven Software Engineering laboratory submissio
 | Lab | Topic / Title | Problem Statement / Scope | Key Deliverables & Artifacts | Folder |
 |:---:|:---|:---|:---|:---:|
 | **Lab 1** | **Requirements Engineering & UML Use-Case Modelling** | Remote Team Time-Tracking & Project Approver (#46) | Functional (5 FRs) & Non-Functional (2 NFRs) table, UML use-case diagram with `<<include>>` and `<<extend>>`, detailed use-case flow | [`lab1/`](./lab1/) |
-| **Lab 2** | **Agile Backlog Creation & Sprint Simulation in Jira** | Remote Team Time-Tracking & Project Approver | 3 Epics, 5 User Stories with Fibonacci story points (23 total), Active Sprint Board, Burndown chart & reflection | [`lab2/`](./lab2/) |
 | **Lab 3** | **Component Modelling & Architectural Pattern Selection** | Remote Team Time-Tracking & Project Approver | Component diagram, Microservices Architecture selection (5 services, 6 APIs), security & performance justifications | [`lab3/`](./lab3/) |
 | **Lab 4** | **AI-Assisted Pair Programming ("Vibe Coding")** | Space Invaders Game (Pygame) | Collision detection enhancement, score/audio fixes, before & after gameplay demo videos | [`lab4/`](./lab4/) |
 | **Lab 5** | **Static Code Analysis** | Hospital Patient System (`hospital_patient_system.py`) | Pylint score raised from 5.19 to 10.00/10, Bandit issues eliminated (5 → 0), Flake8 warnings fixed (11 → 0), before/after reports | [`lab5/`](./lab5/) |
@@ -36,14 +35,6 @@ This repository consolidates all seven Software Engineering laboratory submissio
   - `01_Requirements/Requirements_Table.md`: 5 Functional Requirements (FR-001 to FR-005) and 2 Non-Functional Requirements (NFR-001, NFR-002) with priority, acceptance criteria, and rationale.
   - `02_UML/Use_Case_Diagram.png`: UML diagram illustrating actors (Remote Developer, Engineering Manager), include relationships (Validate Timesheet), and extend relationships (Reject Timesheet).
   - `03_Use_Case_Flow/Submit_Timesheet_Flow.md`: Detailed end-to-end flow specification for timesheet submission.
-
-### [Lab 2: Agile Backlog Creation & Sprint Simulation in Jira](./lab2/)
-- **Focus:** Agile project management, sprint simulation, and capacity estimation using Atlassian Jira.
-- **Key Artifacts:**
-  - `PES2UG24AM129_SE_LAB2.pdf`: Complete lab submission document with screenshots and analytical reflection.
-  - Breakdown of 3 Epics (Time Logging & Submission, Approval Workflow, Budget Visibility).
-  - 5 User Stories estimated using the Fibonacci scale (3, 5, 2, 5, 8 story points).
-  - Active Sprint Board progression and Sprint Burndown analysis examining mid-sprint scope creep.
 
 ### [Lab 3: Component Modelling & Architectural Pattern Selection](./lab3/)
 - **Focus:** Structural decomposition and architectural pattern justification.
@@ -106,9 +97,6 @@ PES2UG24AM129-SE-labs-submissions/
 │   │   └── Use_Case_Diagram.png
 │   └── 03_Use_Case_Flow/
 │       └── Submit_Timesheet_Flow.md
-├── lab2/
-│   ├── README.md
-│   └── PES2UG24AM129_SE_LAB2.pdf
 ├── lab3/
 │   ├── README.md
 │   └── PES2UG24AM129_SE_LAB3.pdf
